@@ -26,6 +26,11 @@ After cloning this repository, migrate to instagram-flutter-clone folder. Then, 
 - Take Web FirebaseOptions and put it in main function in main.dart file replacing my keys (My keys wont work as I deleted my project) Then run the following commands to run your app:
 
   flutter pub get
+  open -a simulator (to get iOS Simulator)
+  flutter run
+  flutter run -d chrome --web-renderer html (to see the best output)
+
+  flutter pub get
   flutter run
   flutter run -d chrome --web-renderer html (to see the best output)
 
