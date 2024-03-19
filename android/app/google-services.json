@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1082789774587",
+    "firebase_url": "https://instagram-kazuha-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "instagram-kazuha",
+    "storage_bucket": "instagram-kazuha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082789774587:android:157d0eedf50047606fdc5e",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvQvTYHq0Asgzb7IIxY1oWELr9xAr12cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
